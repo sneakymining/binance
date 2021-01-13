@@ -29,7 +29,10 @@ Follow the configuration below otherwise you may not recieve payment for your co
 - Answer: I'll update it whenever I have the chance but as of 13/01/2021 @ 04:00am UK time this configuration is the latest and I will do my best to include the latest build of phoenix miner on here.
 
 - Question: Will mining with my GPU shorten it's lifespan?
-- Answer: Yes. You're utilising your GPU to pretty much 100% for hours, days, months maybe even years. It will eventually like all things break.
+- Answer: Yes. You're utilising your GPU to pretty much 100% for hours, days, months maybe even years. It will eventually like all things break. So to ultimately answer the question. Yes... Sadly pushing your GPU to it's limit for many hours at a time will shorten it's life.
 
 - Question: How hot should my GPU be?
 - Answer: I personally try and keep my GPU at around 50'c to 60'c I don't like to allow it to go any hotter than that. As of writing this my GTX 1060 6GB GPU is at 58'c.
+
+- Question: Why did I get into GPU Mining?
+- Answer: I got into GPU Mining because I saw that I could easily make the money I spent on my GPU back within a few months of leaving my machine on. So by mining I'm essentially paying off my GPU that I had initially paid for. For older GPU's it'll be a lot harder to make your money back on it since it's performance when it comes to mining won't be as good as it maybe once was. But for my GTX 1060 6GB and my RTX 2060 I'll be able to mine together to make at some money back on my initial payment for my GPU.
