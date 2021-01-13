@@ -1,5 +1,5 @@
 REM
-REM Example bat file for starting PhoenixMiner.exe to mine ETH
+REM bat file for starting PhoenixMiner.exe to mine ETH with Binance.
 REM
 
 setx GPU_FORCE_64BIT_PTR 0
