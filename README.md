@@ -37,10 +37,10 @@ Follow the configuration below otherwise you may not recieve payment for your co
 - Question: Why did I get into GPU Mining?
 - Answer: I got into GPU Mining because I saw that I could easily make the money I spent on my GPU back within a few months of leaving my machine on. So by mining I'm essentially paying off my GPU that I had initially paid for. For older GPU's it'll be a lot harder to make your money back on it since it's performance when it comes to mining won't be as good as it maybe once was. But for my GTX 1060 6GB and my RTX 2060 I'll be able to mine together to make at some money back on my initial payment for my GPU.
 
-# Useful Websites
+# Useful Websites (Please use my ref link <3)
 
 - What To Mine: https://whattomine.com/ Is a very good website for showing what sort of currencies you could be mining and earning with. It calculates your power consumption as well as your earnings together and shows you a decent estimate on how much you could be potentially earning by mining with your GPU.
 
-- Binance: https://www.binance.com/en This exchange will show you crypto prices, has a well built api for auto trading and also has various other features which I haven't gotten around to using but overall great website.
+- Binance: https://www.binance.com/en/register?ref=48222132 This exchange will show you crypto prices, has a well built api for auto trading and also has various other features which I haven't gotten around to using but overall great website.
 
 - Phoenix Miner: https://phoenixminer.org/ This is the website where you can download the mining application that is showed in this github.
