@@ -19,3 +19,17 @@ Follow the configuration below otherwise you may not recieve payment for your co
 3. Find where it says " -eworker public " then change " public " to your own worker name. Example: RTX 3080
 4. Save the file.
 5. Double click the start_miner.bat file so the miner will start.
+
+# FAQ
+
+Q: Where can I download the Phoenix Miner?
+A: You can download the latest build on their website over at https://phoenixminer.org/
+
+Q: Is the file provided in this github the latest Phoenix Miner?
+A: I'll update it whenever I have the chance but as of 13/01/2021 @ 04:00am UK time this configuration is the latest and I will do my best to include the latest build of phoenix miner on here.
+
+Q: Will mining with my GPU shorten it's lifespan?
+A: Yes. You're utilising your GPU to pretty much 100% for hours, days, months maybe even years. It will eventually like all things break.
+
+Q: How hot should my GPU be?
+A: I personally try and keep my GPU at around 50'c to 60'c I don't like to allow it to go any hotter than that. As of writing this my GTX 1060 6GB GPU is at 58'c.
